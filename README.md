@@ -1,0 +1,2 @@
+# Twitter-Sentiment-Analysis
+A project created to analyze sentiments of a twitter account or compare multiple twitter accounts for better gauging the personality of the user. This analysis is useful for understanding whether a personality is well received by the public and can be called for advertising a company's product or to get public sentiment on important events happening around such as elections, new law introduction and many such topics.
